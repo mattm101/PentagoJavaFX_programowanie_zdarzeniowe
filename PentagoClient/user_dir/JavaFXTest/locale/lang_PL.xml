@@ -1,0 +1,36 @@
+<language>
+  <main-menu-game>GRA</main-menu-game>
+  <main-menu-accout>KONTO</main-menu-accout>
+  <main-menu-options>USTAWIENIA</main-menu-options>
+  <pop-pl>polski</pop-pl>
+  <pop-en>angielski</pop-en>
+  <pop-lang-label>Język: polski</pop-lang-label>
+  <pop-vol-label>Motyw:</pop-vol-label>
+  <login-user>Nazwa użytkownika</login-user>
+  <login-pass>Hasło</login-pass>
+  <login-btn>Zaloguj</login-btn>
+  <reg-btn>Zarejestruj użytkownika</reg-btn>
+  <reg-confim>Potwierdź hasło</reg-confim>
+  <login-tab>Logowanie</login-tab>
+  <reg-tab>Rejestracja</reg-tab>
+  <con-err-msg>Błąd połączenia. Spróbuj ponownie później.</con-err-msg>
+  <login-label>Logowanie</login-label>
+  <login-label-error>Błędne dane logowania</login-label-error>
+  <reg-label>Nowy użytkownik</reg-label>
+  <reg-label-pass-error>Hasła nie są identyczne</reg-label-pass-error>
+  <reg-label-user-exists-error>Użytkownik już istnieje</reg-label-user-exists-error>
+  <reg-label-success>Zarejestrowano! Możesz się zalogować</reg-label-success>
+  <unable-to-send>Wystąpił błąd</unable-to-send>
+  <notyfication> wyzywa Cię na pojedynek!</notyfication>
+  <information> jest już w grze!</information>
+  <game-win>WYGRAŁEŚ!</game-win>
+  <game-lose>PRZEGRAŁEŚ!</game-lose>
+  <game-leaved>PRZECIWNIK WYSZEDŁ!</game-leaved>
+  <game-your-turn>Twoja tura!</game-your-turn>
+  <msg-prompt>Wiadomość...</msg-prompt>
+  <msg-you>TY</msg-you>
+  <wins>wygrane</wins>
+  <loses>przegrane</loses>
+  <leaves>opuszczone</leaves>
+  <hs-title>TOP LISTA</hs-title>
+</language>

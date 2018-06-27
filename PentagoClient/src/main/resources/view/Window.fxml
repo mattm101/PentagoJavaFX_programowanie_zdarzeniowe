@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.image.ImageView?>
+<fx:root type="javafx.scene.layout.BorderPane"
+          minHeight="400.0" minWidth="600.0"
+         xmlns:fx="http://javafx.com/fxml">
+
+<!-- Stuff here to declare the menu bar-->
+    <top>
+        <StackPane>
+            <HBox>
+            <Pane fx:id="blurPane"></Pane>
+            </HBox>
+            <HBox fx:id="menuBox">
+
+             <Button fx:id="gameButton" text="GRA"></Button>
+             <Button fx:id="accountButton" text="KONTO"></Button>
+                <Pane fx:id="spacer"></Pane>
+                <Label fx:id="timeLabel">--:--</Label>
+                <Button fx:id="optionsButton" minWidth="50"></Button>
+                <Pane fx:id="spacerRight"></Pane>
+            </HBox>
+        </StackPane>
+    </top>
+    <center>
+        <StackPane fx:id="centerPanel"></StackPane>
+    </center>
+
+</fx:root>

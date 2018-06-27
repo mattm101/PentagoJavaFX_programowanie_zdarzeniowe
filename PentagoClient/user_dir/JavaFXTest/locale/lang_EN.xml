@@ -1,0 +1,36 @@
+<language>
+  <main-menu-game>GAME</main-menu-game>
+  <main-menu-accout>ACCOUNT</main-menu-accout>
+  <main-menu-options>OPTIONS</main-menu-options>
+  <pop-pl>polish</pop-pl>
+  <pop-en>english</pop-en>
+  <pop-lang-label>Lang: english</pop-lang-label>
+  <pop-vol-label>Theme:</pop-vol-label>
+  <login-user>Username</login-user>
+  <login-pass>Password</login-pass>
+  <login-btn>Log In</login-btn>
+  <reg-btn>Register User</reg-btn>
+  <reg-confim>Confim password</reg-confim>
+  <login-tab>Login</login-tab>
+  <reg-tab>Registration</reg-tab>
+  <con-err-msg>Connection error.\n Please try again later.</con-err-msg>
+  <login-label>Login Page</login-label>
+  <login-label-error>Bad credentials</login-label-error>
+  <reg-label>Registration page</reg-label>
+  <reg-label-pass-error>Passwords don't match</reg-label-pass-error>
+  <reg-label-user-exists-error>User already exists</reg-label-user-exists-error>
+  <reg-label-success>Registered! Now you can log in</reg-label-success>
+  <unable-to-send>Unable to send</unable-to-send>
+  <notyfication> challanges you!</notyfication>
+  <information> is already in a game!</information>
+  <game-win>YOU WIN!</game-win>
+  <game-lose>YOU LOSE!</game-lose>
+  <game-leaved>OPPONENT LEAVED!</game-leaved>
+  <game-your-turn>Your turn!</game-your-turn>
+  <msg-prompt>Message...</msg-prompt>
+  <msg-you>YOU</msg-you>
+  <wins>wins</wins>
+  <loses>defeats</loses>
+  <leaves>leaves</leaves>
+  <hs-title>HighScores</hs-title>
+</language>

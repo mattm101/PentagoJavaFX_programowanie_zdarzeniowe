@@ -1,0 +1,22 @@
+sty 24, 2018 11:14:45 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.Server startRunning
+INFO: Wczytano plik konfiguracyjny
+sty 24, 2018 11:14:47 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.Server startRunning
+INFO: Po³¹czono z baz¹ danych
+sty 24, 2018 11:14:47 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.Server startRunning
+INFO: Otworzono port serwera 6677
+sty 24, 2018 11:14:47 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.Server startRunning
+INFO: Czekam na nowe po³¹czenie
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.Server waitForConnection
+INFO: Akceptuje nowe po³¹czenie z /127.0.0.1
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.Server startRunning
+INFO: Czekam na nowe po³¹czenie
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.SessionTask run
+INFO: Nawi¹zano po³¹czenie w sesji
+sty 24, 2018 11:15:03 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.SessionTask loginLoop
+INFO: a zalogowa³ siê
+sty 24, 2018 11:15:03 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.SessionTask whileChatting
+INFO: U¿ytkownik jest po³¹czony a
+sty 24, 2018 11:15:06 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.SessionTask whileChatting
+WARNING: Wyj¹tek w pêtli odbierania wiadomoœci java.io.EOFException
+sty 24, 2018 11:15:06 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentagoserver.server.SessionTask whileChatting
+INFO: Usuniêto sesjê a

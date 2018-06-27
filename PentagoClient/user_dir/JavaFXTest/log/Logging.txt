@@ -1,0 +1,54 @@
+sty 24, 2018 11:14:58 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.config.ConfigManager loadConfig
+INFO: utworzono œcie¿kê do pliku config.properties
+sty 24, 2018 11:14:58 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.config.ConfigManager <init>
+INFO: Za³adowano plik config.properties
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.core.LoginPanel <init>
+INFO: Za³adowano widok
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.core.RegistrationPanel <init>
+INFO: RegistrationPanel - za³adowano widok
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.net.NetworkController connect
+INFO: NetworkController - otwieranie po³¹czenia
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.net.Connector <init>
+INFO: Pobrano port serwera 6677
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.core.StartWindow <init>
+INFO: Za³adowano widok startowego okna
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.util.ThemeManager <init>
+INFO: Za³adowano plik config.properties
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.net.Connector connectToServer
+INFO: Connector - Utworzono gniazdo z serwerem
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.net.Connector setupStreams
+INFO: Connector - Otwarto streamy
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.lang.LangLoaderTask call
+INFO: LangLoaderTask - wczytano jêzyk z pliku XML
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.lang.LangLoaderTask call
+INFO: LangLoaderTask - wczytano jêzyk z pliku XML
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.lang.LangLoaderTask call
+INFO: LangLoaderTask - wczytano jêzyk z pliku XML
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.core.LoginPanel loadLang
+INFO: Prze³adowano jêzyk
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.core.RegistrationPanel loadLang
+INFO: RegistrationPanel - prze³adowano jêzyk
+sty 24, 2018 11:14:59 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.lang.LangController handle
+INFO: Worker za³adowa³ jêzyk
+sty 24, 2018 11:15:03 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.core.Window <init>
+INFO: Za³adowano widok g³ównego okna
+sty 24, 2018 11:15:03 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.lang.LangLoaderTask call
+INFO: LangLoaderTask - wczytano jêzyk z pliku XML
+sty 24, 2018 11:15:03 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.core.StartWindow loadMainWindow
+INFO: StartWindow - Przygotowano ³adowanie g³ównego okna
+sty 24, 2018 11:15:03 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.core.LoginPanel loadLang
+INFO: Prze³adowano jêzyk
+sty 24, 2018 11:15:03 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.core.RegistrationPanel loadLang
+INFO: RegistrationPanel - prze³adowano jêzyk
+sty 24, 2018 11:15:03 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.core.GamePanel loadLang
+INFO: prze³adowano jêzyk
+sty 24, 2018 11:15:03 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.lang.LangController handle
+INFO: Worker za³adowa³ jêzyk
+sty 24, 2018 11:15:06 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.net.NetworkController disconnect
+INFO: NetworkController - zamykanie po³¹czenia
+sty 24, 2018 11:15:06 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.net.Connector closeCrap
+INFO: Connector - Zamkniêto po³¹czenie z serwerem
+sty 24, 2018 11:15:06 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.net.Connector run
+WARNING: Connector - Nie mo¿na odebraæ danych z serwera
+sty 24, 2018 11:15:06 PM pl.edu.wat.wcy.pz.i5b1n1.malecmateusz.pentago.net.Connector closeCrap
+INFO: Connector - Zamkniêto po³¹czenie z serwerem
