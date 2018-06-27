@@ -1,6 +1,8 @@
 # PentagoJavaFX_programowanie_zdarzeniowe
 
 ## Zrzuty ekranu
+<img src="screenshots/screen1.PNG" align="center" >
+
 ![](screenshots/screen1.PNG)
 
 ![](screenshots/screen2.PNG)
