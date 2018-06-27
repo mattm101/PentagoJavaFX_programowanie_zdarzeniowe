@@ -4,17 +4,21 @@
 <p align="center" >
   <img src="screenshots/screen1.PNG" >
 </p>
-
-![](screenshots/screen1.PNG)
-
-![](screenshots/screen2.PNG)
-
-![](screenshots/screen3.PNG)
-
-![](screenshots/screen4.PNG)
-
-![](screenshots/screen5.PNG)
-
-![](screenshots/screen6.PNG)
-
-![](screenshots/screen7.PNG)
+<p align="center" >
+  <img src="screenshots/screen2.PNG" >
+</p>
+<p align="center" >
+  <img src="screenshots/screen3.PNG" >
+</p>
+<p align="center" >
+  <img src="screenshots/screen4.PNG" >
+</p>
+<p align="center" >
+  <img src="screenshots/screen5.PNG" >
+</p>
+<p align="center" >
+  <img src="screenshots/screen6.PNG" >
+</p>
+<p align="center" >
+  <img src="screenshots/screen7.PNG" >
+</p>
