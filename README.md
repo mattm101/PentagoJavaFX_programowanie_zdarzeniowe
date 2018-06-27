@@ -1,4 +1,6 @@
 # PentagoJavaFX_programowanie_zdarzeniowe
+## Opis projektu
+
 
 ## Zrzuty ekranu
 <p align="center" >
